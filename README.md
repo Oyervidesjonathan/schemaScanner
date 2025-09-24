@@ -1,4 +1,7 @@
 # schemaScanner
+
+![Made with SQLite](https://img.shields.io/badge/Database-SQLite-blue)
+
 This file defines the SQLite database structure for the Premarket Scanner Bot. It includes three main tables:
 
 scans → Stores ticker scan results, gap %, relative volume, and multi-timeframe RSI values.

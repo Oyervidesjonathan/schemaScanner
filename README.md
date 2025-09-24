@@ -1,4 +1,9 @@
 # schemaScanner
+This file defines the SQLite database structure for the Premarket Scanner Bot. It includes three main tables:
+
+scans → Stores ticker scan results, gap %, relative volume, and multi-timeframe RSI values.
+
+orders → Records order details such as ticker, side (BUY/SELL), quantity, price, and status.
 
 
 premarket-scanner-bot/
